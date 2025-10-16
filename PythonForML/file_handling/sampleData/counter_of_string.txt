@@ -1,0 +1,3 @@
+Total line: 15
+Total word: 15
+Total chars: 72
