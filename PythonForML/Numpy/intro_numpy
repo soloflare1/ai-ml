@@ -1,0 +1,46 @@
+
+
+# NumPy
+# num -> numerical
+# py -> python
+
+# core struture -> ndarray
+
+# list -> slow
+#      -> can mixed data store
+#      -> value not continous
+#      -> static
+#      But computer work better with continous data than static
+#
+# nd array -> continous in memory
+#             1    2   3  4
+#             101 104 109 113 
+#          -> same type (homogeneous)
+#             don't need to repetively define data type
+#         -> faster
+#         -> so we can do vectorized operation
+        
+# CPU->
+#      SIMD-> Single Instruction Multiple Data
+#           -> one instruction operate on multiple data
+#           -> numpy use this feature of CPU to speed up operation on array
+
+
+
+# ex: 5* per element of array
+#  here numpy load full array to CPU and
+#  do 5* operation on all element at once
+ 
+#  and list will do one by one operation
+#   -> numpy is faster    
+
+
+            #    as ai/ml depends heavily on numerical computation
+            #     like:
+            #      -> linear algebra
+            #      -> math 
+            #      -> statistics
+            #     -> probability
+            #    numpy is very important library for ai/ml
+            
+ ndarray_attributes
