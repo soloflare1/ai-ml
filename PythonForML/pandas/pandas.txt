@@ -1,0 +1,25 @@
+pandas->
+   tool
+   powerful libraries of python\
+
+   data cleaning
+   data pre-processing
+   data analysis
+
+   EDA 
+   Feature engineering
+
+pandas built on 2 main  Data structure
+    Dataframe -> 2D data /tabular data
+    series -> 1D data /single column/row
+
+
+Numpy
+   
+    tool
+    functionalities
+       SD, mean,corrcoff
+        
+
+
+         
